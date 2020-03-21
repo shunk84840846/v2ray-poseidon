@@ -6,7 +6,7 @@
     "webapi": "board.lensfa.computer",
     "token": ";Yx17820098838",   
 
-    "speedLimit": 0, /
+    "speedLimit": 0, 
     "user": {
       "maxOnlineIPCount": 0,  
       "speedLimit": 0        
